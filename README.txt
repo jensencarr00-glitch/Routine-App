@@ -1,0 +1,1 @@
+Routine app: upload these files to a NEW GitHub repo (Pages from main / root), open the link once online, then Install app.
